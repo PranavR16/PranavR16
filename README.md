@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋 I'm Pranav Rawat
 
-<!--
-**PranavR16/PranavR16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | .NET Developer | IoT Enthusiast
 
-Here are some ideas to get you started:
+I am a Software Engineer with experience in **C#, .NET Core, Angular, SQL Server, and REST APIs**.
+I enjoy building scalable backend systems and exploring **IoT and cloud-based solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+
+* C#
+* C++
+* JavaScript
+* SQL
+
+**Backend**
+
+* .NET Core
+* ASP.NET MVC
+* REST APIs
+
+**Frontend**
+
+* Angular
+* HTML
+* CSS
+* Bootstrap
+
+**Database**
+
+* SQL Server
+* MySQL
+
+**Tools**
+
+* Git
+* Docker
+* Kubernetes
+* CI/CD Pipelines
+
+---
+
+## 📌 Featured Projects
+
+### IoT Smart Street Light
+
+IoT-based street light automation system using **Arduino, ESP8266 and ThingSpeak cloud**.
+
+🔗 https://github.com/YOUR_USERNAME/smart-street-light-iot
+
+---
+
+### Employee Leave Management System
+
+Backend system built using **.NET Core, Web API, and SQL Server** with role-based access control.
+
+---
+
+### Healthcare Management APIs
+
+Developed REST APIs for **HIPAA compliant healthcare platform** including appointment booking, messaging, and reporting modules.
+
+---
+
+## 📊 GitHub Stats
+
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://linkedin.com
+Email: [your-email@example.com](mailto:your-email@example.com)
