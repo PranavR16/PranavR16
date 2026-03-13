@@ -54,6 +54,69 @@ I enjoy designing and building **scalable backend systems, cloud-enabled applica
 A **full-stack leave management application** developed using **.NET Core Web API, Angular, and SQL Server**.
 Implements **role-based access control** for employees, managers, and administrators, enabling leave requests, approvals, and reporting.
 
+## 🏗 System Architecture
+
+The application follows a layered architecture to maintain separation of concerns and scalability.
+
+Frontend Layer
+→ Angular Application
+
+API Layer
+→ ASP.NET Core Web API
+
+Business Logic Layer
+→ Services handling validation and workflow logic
+
+Data Access Layer
+→ Entity Framework Core
+
+Database
+→ SQL Server
+
+## 🔗 API Endpoints
+
+### Get All Employees
+
+GET /api/employees
+
+Response
+
+{
+  "employeeId": 1,
+  "name": "John Doe",
+  "department": "IT"
+}
+
+---
+
+### Apply Leave
+
+POST /api/leaves
+
+Request
+
+{
+  "employeeId": 10,
+  "startDate": "2026-03-10",
+  "endDate": "2026-03-12",
+  "reason": "Medical"
+}
+
+---
+
+### Approve Leave
+
+PUT /api/leaves/{id}/approve
+
+## ✨ Features
+
+- Role-based authentication
+- Leave application workflow
+- Manager approval system
+- Leave history tracking
+- Reporting dashboard
+- API validation and exception handling
+
 ---
 
 ### 🔹 Employee Tracking System (Windows Forms)
