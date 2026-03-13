@@ -9,6 +9,10 @@ I enjoy designing and building **scalable backend systems, cloud-enabled applica
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,js,html,css,bootstrap,mysql,git,docker,kubernetes)](https://skillicons.dev)
+
 ### Languages
 
 ![C#](https://img.shields.io/badge/C%23-blue)
