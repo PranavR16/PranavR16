@@ -45,23 +45,29 @@ I enjoy building scalable backend systems, cloud-enabled applications, and IoT b
 
 ## 📌 Featured Projects
 
-### 🔹 IoT Smart Street Light
-
-IoT-based street light automation system using **Arduino, ESP8266 and ThingSpeak cloud**.
-
-👉 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
-
----
-
 ### 🔹 Employee Leave Management System
 
-Backend system built using **.NET Core Web API and SQL Server** with role-based access control.
+Full-stack employee leave management application developed using **.NET Core Web API, Angular and SQL Server** with **role-based access control for employees, managers and administrators.**
 
 ---
 
-### 🔹 Healthcare Management APIs
+### 🔹 Employee Tracking System (Windows Forms)
 
-Developed APIs for a **HIPAA-compliant healthcare platform** including appointment booking, telehealth modules and messaging systems.
+Desktop employee management application built using **C#, Windows Forms, ADO.NET and SQL Server** implementing **N-Tier Architecture with DAL, BLL and DTO layers** for clean separation of concerns.
+
+---
+
+### 🔹 TravelAway Web Application
+
+Full-stack travel booking web application built using **ASP.NET Core, Angular and SQL Server**, implementing **3-Tier Architecture with REST APIs** for managing travel packages, bookings and user interactions.
+
+---
+
+### 🔹 IoT Smart Street Light
+
+IoT-based smart street lighting system built using **Arduino UNO, LDR sensor and ESP8266 WiFi module**, integrated with T**hingSpeak cloud platform for automated lighting control and real-time monitoring**.
+
+👉 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
 
 ---
 
