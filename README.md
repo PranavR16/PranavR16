@@ -1,73 +1,85 @@
 # Hi 👋 I'm Pranav Rawat
 
-💻 Software Developer | .NET Developer | IoT Enthusiast
+💻 Software Developer | .NET Developer | Backend Engineer | IoT Enthusiast
 
 I am a Software Engineer with experience in **C#, .NET Core, Angular, SQL Server, and REST APIs**.
-I enjoy building scalable backend systems and exploring **IoT and cloud-based solutions**.
+I enjoy building scalable backend systems, cloud-enabled applications, and IoT based solutions.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**
+### Languages
 
-* C#
-* C++
-* JavaScript
-* SQL
+![C#](https://img.shields.io/badge/C%23-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
-**Backend**
+### Backend
 
-* .NET Core
-* ASP.NET MVC
-* REST APIs
+![.NET](https://img.shields.io/badge/.NET-Core-purple)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC-purple)
+![REST API](https://img.shields.io/badge/REST-API-green)
 
-**Frontend**
+### Frontend
 
-* Angular
-* HTML
-* CSS
-* Bootstrap
+![Angular](https://img.shields.io/badge/Angular-red)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 
-**Database**
+### Database
 
-* SQL Server
-* MySQL
+![SQL Server](https://img.shields.io/badge/SQL-Server-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
 
-**Tools**
+### Tools
 
-* Git
-* Docker
-* Kubernetes
-* CI/CD Pipelines
+![Git](https://img.shields.io/badge/Git-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-green)
 
 ---
 
 ## 📌 Featured Projects
 
-### IoT Smart Street Light
+### 🔹 IoT Smart Street Light
 
 IoT-based street light automation system using **Arduino, ESP8266 and ThingSpeak cloud**.
 
-🔗 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
+👉 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
 
 ---
 
-### Employee Leave Management System
+### 🔹 Employee Leave Management System
 
-Backend system built using **.NET Core, Web API, and SQL Server** with role-based access control.
+Backend system built using **.NET Core Web API and SQL Server** with role-based access control.
 
 ---
 
-### Healthcare Management APIs
+### 🔹 Healthcare Management APIs
 
-Developed REST APIs for **HIPAA compliant healthcare platform** including appointment booking, messaging, and reporting modules.
+Developed APIs for a **HIPAA-compliant healthcare platform** including appointment booking, telehealth modules and messaging systems.
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavR16\&show_icons=true)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavR16\&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PranavR16)
 
 ---
 
