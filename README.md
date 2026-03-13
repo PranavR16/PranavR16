@@ -49,7 +49,7 @@ I enjoy building scalable backend systems and exploring **IoT and cloud-based so
 
 IoT-based street light automation system using **Arduino, ESP8266 and ThingSpeak cloud**.
 
-🔗 https://github.com/PranavR16/smart-street-light-iot
+🔗 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
 
 ---
 
@@ -67,11 +67,11 @@ Developed REST APIs for **HIPAA compliant healthcare platform** including appoin
 
 ## 📊 GitHub Stats
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavR16\&show_icons=true)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com
-Email: [your-email@example.com](mailto:your-email@example.com)
+LinkedIn: [https://www.linkedin.com/in/pranav-rawat-253530151/]
+Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
