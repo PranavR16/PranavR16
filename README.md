@@ -9,8 +9,6 @@ I enjoy designing and building **scalable backend systems, cloud-enabled applica
 
 ## 🚀 Tech Stack
 
-## 🚀 Tech Stack
-
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,js,html,css,bootstrap,mysql,git,docker,kubernetes)](https://skillicons.dev)
 
 ### Languages
@@ -82,6 +80,12 @@ Integrated with the **ThingSpeak cloud platform** for automated lighting control
 ## 📊 GitHub Stats
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavR16\&show_icons=true)
+
+---
+
+## 📅 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavR16)
 
 ---
 
