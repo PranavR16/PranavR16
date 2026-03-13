@@ -91,5 +91,5 @@ IoT-based smart street lighting system built using **Arduino UNO, LDR sensor and
 
 ## 🌐 Connect With Me
 
-LinkedIn: [https://www.linkedin.com/in/pranav-rawat-253530151/] <br>
-Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/pranav-rawat-253530151/] <br>
+- Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
