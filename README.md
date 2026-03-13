@@ -2,8 +2,8 @@
 
 💻 Software Developer | .NET Developer | Backend Engineer | IoT Enthusiast
 
-I am a Software Engineer with experience in **C#, .NET Core, Angular, SQL Server, and REST APIs**.
-I enjoy building scalable backend systems, cloud-enabled applications, and IoT based solutions.
+I am a Software Engineer with experience in **C#, .NET Core, Angular, SQL Server, and RESTful APIs**.
+I enjoy designing and building **scalable backend systems, cloud-enabled applications, and IoT-based solutions**.
 
 ---
 
@@ -47,25 +47,29 @@ I enjoy building scalable backend systems, cloud-enabled applications, and IoT b
 
 ### 🔹 Employee Leave Management System
 
-Full-stack employee leave management application developed using **.NET Core Web API, Angular and SQL Server** with **role-based access control for employees, managers and administrators.**
+A **full-stack leave management application** developed using **.NET Core Web API, Angular, and SQL Server**.
+Implements **role-based access control** for employees, managers, and administrators, enabling leave requests, approvals, and reporting.
 
 ---
 
 ### 🔹 Employee Tracking System (Windows Forms)
 
-Desktop employee management application built using **C#, Windows Forms, ADO.NET and SQL Server** implementing **N-Tier Architecture with DAL, BLL and DTO layers** for clean separation of concerns.
+A **desktop employee management application** built using **C#, Windows Forms, ADO.NET, and SQL Server**.
+Implements **N-Tier Architecture (DAL, BLL, DTO layers)** to ensure clean separation of concerns and maintainable code structure.
 
 ---
 
 ### 🔹 TravelAway Web Application
 
-Full-stack travel booking web application built using **ASP.NET Core, Angular and SQL Server**, implementing **3-Tier Architecture with REST APIs** for managing travel packages, bookings and user interactions.
+A **full-stack travel booking platform** built using **ASP.NET Core, Angular, and SQL Server**.
+Implements **3-Tier Architecture with REST APIs** to manage travel packages, bookings, and user interactions.
 
 ---
 
 ### 🔹 IoT Smart Street Light
 
-IoT-based smart street lighting system built using **Arduino UNO, LDR sensor and ESP8266 WiFi module**, integrated with T**hingSpeak cloud platform for automated lighting control and real-time monitoring**.
+An **IoT-based smart street lighting system** built using **Arduino UNO, LDR sensor, and ESP8266 WiFi module**.
+Integrated with the **ThingSpeak cloud platform** for automated lighting control and real-time monitoring.
 
 👉 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
 
@@ -91,5 +95,5 @@ IoT-based smart street lighting system built using **Arduino UNO, LDR sensor and
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/pranav-rawat-253530151/ 
-- Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/pranav-rawat-253530151/
+* Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
