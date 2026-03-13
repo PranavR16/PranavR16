@@ -49,7 +49,7 @@ I enjoy building scalable backend systems and exploring **IoT and cloud-based so
 
 IoT-based street light automation system using **Arduino, ESP8266 and ThingSpeak cloud**.
 
-🔗 https://github.com/YOUR_USERNAME/smart-street-light-iot
+🔗 https://github.com/PranavR16/smart-street-light-iot
 
 ---
 
