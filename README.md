@@ -1,4 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Pranav%20Rawat&fontSize=40&fontColor=ffffff)
 # Hi 👋 I'm Pranav Rawat
+![Profile Views](https://komarev.com/ghpvc/?username=PranavR16&color=blue)
 
 💻 Software Developer | .NET Developer | Backend Engineer | IoT Enthusiast
 
