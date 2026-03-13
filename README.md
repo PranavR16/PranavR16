@@ -124,12 +124,57 @@ PUT /api/leaves/{id}/approve
 A **desktop employee management application** built using **C#, Windows Forms, ADO.NET, and SQL Server**.
 Implements **N-Tier Architecture (DAL, BLL, DTO layers)** to ensure clean separation of concerns and maintainable code structure.
 
+## 🏗 Architecture
+
+The application is built using N-Tier Architecture.
+
+Presentation Layer
+→ Windows Forms UI
+
+Business Logic Layer (BLL)
+→ Handles business rules and validation
+
+Data Access Layer (DAL)
+→ Communicates with SQL Server
+
+DTO Layer
+→ Transfers structured data between layers
+
+## ✨ Features
+
+- Employee CRUD operations
+- Department management
+- Data validation
+- SQL Server database integration
+- Layered architecture implementation
+
 ---
 
 ### 🔹 TravelAway Web Application
 
 A **full-stack travel booking platform** built using **ASP.NET Core, Angular, and SQL Server**.
 Implements **3-Tier Architecture with REST APIs** to manage travel packages, bookings, and user interactions.
+
+## 🏗 Application Architecture
+
+The system follows a 3-tier architecture.
+
+Presentation Layer
+→ Angular Frontend
+
+Application Layer
+→ ASP.NET Core REST APIs
+
+Data Layer
+→ SQL Server Database
+
+## ✨ Core Modules
+
+- Travel Package Management
+- Booking System
+- User Authentication
+- Search and Filter Packages
+- Booking History
 
 ---
 
@@ -139,6 +184,33 @@ An **IoT-based smart street lighting system** built using **Arduino UNO, LDR sen
 Integrated with the **ThingSpeak cloud platform** for automated lighting control and real-time monitoring.
 
 👉 https://github.com/PranavR16/Iot-Smart-Street-Light-Arduino
+
+## ⚡ Hardware Components
+
+- Arduino UNO
+- ESP8266 WiFi Module
+- LDR Sensor
+- LED Street Light
+- Emergency Button
+
+## 🔄 System Workflow
+
+1. LDR sensor detects ambient light.
+2. Arduino processes sensor input.
+3. If environment is dark → street light turns ON.
+4. If environment is bright → street light turns OFF.
+5. Data is transmitted via ESP8266 to ThingSpeak cloud.
+6. Cloud dashboard displays light and emergency status.
+
+LDR Sensor
+↓
+Arduino UNO
+↓
+ESP8266 WiFi Module
+↓
+ThingSpeak Cloud
+↓
+Dashboard Monitoring
 
 ---
 
