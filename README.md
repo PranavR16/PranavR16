@@ -242,4 +242,4 @@ Dashboard Monitoring
 
 * LinkedIn: https://www.linkedin.com/in/pranav-rawat-253530151/
 * Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Rawat-blue?logo=linkedin)](https://www.linkedin.com/in/pranav-rawat-253530151/)
