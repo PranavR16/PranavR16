@@ -238,8 +238,13 @@ Dashboard Monitoring
 
 ---
 
-## 🌐 Connect With Me
+<!--## 🌐 Connect With Me-->
 
-* LinkedIn: https://www.linkedin.com/in/pranav-rawat-253530151/
-* Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Rawat-blue?logo=linkedin)](https://www.linkedin.com/in/pranav-rawat-253530151/)
+<!--* LinkedIn: https://www.linkedin.com/in/pranav-rawat-253530151/-->
+<!--* Email: [pranavrawat16@gmail.com](mailto:pranavrawat16@gmail.com)-->
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranav%20Rawat-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pranav-rawat-253530151/)
+[![Email](https://img.shields.io/badge/Email-pranavrawat16%40gmail.com-red?logo=gmail\&logoColor=white)](mailto:pranavrawat16@gmail.com)
+
